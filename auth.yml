@@ -1,4 +1,0 @@
-AUTH_PORT: 5555
-DB_USERNAME: "auth"
-DB_PASSWORD: "auth"
-DB_URL: "jdbc:postgresql://localhost:5432/postgres"
