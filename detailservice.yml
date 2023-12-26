@@ -1,0 +1,10 @@
+DETAIL_PORT: 9999
+RABBIT_MQ_URL: "localhost"
+RABBIT_MQ_PORT: 5672
+RABBIT_MQ_USERNAME: "guest"
+RABBIT_MQ_PASSWORD: "guest"
+HUY_NICKNAME: mihawk
+HUY_NAME: luffychan
+APP_NAME: "details"
+APP_DESCRIPTION: "Details service"
+APP_VERSION: "1.0.0"
